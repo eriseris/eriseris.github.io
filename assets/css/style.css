@@ -981,3 +981,38 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+@media (max-width: 450px) {
+  #hero .hero-container h1{
+    font-size: 33px !important;
+  }
+
+  #hero .hero-container p {
+    font-size: 15px !important;
+  }
+
+  #hero {
+    background-position: calc(100% - -30px) calc(100% - 50px) !important;
+    background-size: 60rem !important;
+  }
+
+  #hero .hero-container {
+    margin-top: 30rem !important;
+  }
+}
+
+@media (max-width: 370px) {
+  #hero .hero-container h1{
+    font-size: 30px !important;
+  }
+
+  #hero {
+    background-position: calc(100% - -15px) calc(100% - 0px) !important;
+    background-size: 50rem !important;
+  }
+
+  #hero .hero-container {
+    margin-top: 24rem !important;
+  }
+}

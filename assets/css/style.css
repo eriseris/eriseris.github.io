@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgb(255, 112, 30);
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #ffffff;
 }
 
 @media (min-width: 1024px) {

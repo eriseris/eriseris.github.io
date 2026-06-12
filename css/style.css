@@ -2108,3 +2108,7 @@ span.error {
   letter-spacing: .1rem;
   color: #fd7e41;
 }
+
+.black-sec {
+  background-color: black;
+}

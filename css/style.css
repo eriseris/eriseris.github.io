@@ -2109,6 +2109,13 @@ span.error {
   color: #fd7e41;
 }
 
-.black-sec {
+/* .black-sec {
   background-color: black;
+} */
+
+.gsap-reveal p {
+  font-size: 12px;
+  display: inline;
+  font-weight: 300;
+  margin-left: 6px;
 }
